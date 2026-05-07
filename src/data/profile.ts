@@ -16,7 +16,7 @@ const PROFILE: Profile = {
   links: [
     { label: 'LinkedIn', url: 'https://www.linkedin.com/in/zzh520' },
     { label: 'Tableau',  url: 'https://public.tableau.com/app/profile/zzh520/vizzes' },
-    { label: 'Website',  url: 'https://zihaozhao.info' },
+    { label: 'Github',  url: 'https://github.com/SecondServ' },
   ],
 
   experience: [
